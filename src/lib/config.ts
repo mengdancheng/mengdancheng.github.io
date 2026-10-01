@@ -35,6 +35,13 @@ export interface SiteConfig {
   features: {
     enable_likes: boolean;
     enable_one_page_mode?: boolean;
+    // Show a public "total visits" count in the footer, via busuanzi
+    enable_visit_counter?: boolean;
+  };
+  // Private visitor analytics; each one is only loaded when its ID is set
+  analytics?: {
+    umami_website_id?: string;
+    google_analytics_id?: string;
   };
   navigation: Array<{
     title: string;

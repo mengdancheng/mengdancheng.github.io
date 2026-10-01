@@ -46,6 +46,8 @@ export interface LocaleMessages {
   footer: {
     lastUpdated: string;
     builtWithPrism: string;
+    // `{count}` is replaced with the number of visits
+    totalVisits: string;
   };
 }
 
@@ -97,6 +99,7 @@ const en: LocaleMessages = {
   footer: {
     lastUpdated: 'Last updated',
     builtWithPrism: 'Built with PRISM',
+    totalVisits: '{count} total visits',
   },
 };
 
@@ -148,6 +151,7 @@ const zh: LocaleMessages = {
   footer: {
     lastUpdated: '最近更新',
     builtWithPrism: '由 PRISM 构建',
+    totalVisits: '本站总访问量 {count} 次',
   },
 };
 

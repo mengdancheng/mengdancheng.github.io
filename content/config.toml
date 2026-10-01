@@ -2,7 +2,7 @@
 title = "Dancheng Meng"
 description = "Postdoctoral researcher in healing environments, environmental psychology, and neuro-architecture at Tongji University."
 favicon = "/favicon.svg"
-last_updated = "September 17, 2026"
+last_updated = "October 1, 2026"
 
 [author]
 name = "Dancheng Meng"
@@ -31,10 +31,20 @@ github = "https://github.com/mengdancheng"
 
 [features]
 # Show a like button on the about page
-enable_likes = true
+enable_likes = false
+
+# Show a public "total visits" count in the footer (busuanzi)
+enable_visit_counter = true
 
 # Display all subpages on a single page
 enable_one_page_mode = false
+
+[analytics]
+# Private visitor statistics, visible only to you. Leave empty to disable.
+# Umami Cloud (https://cloud.umami.is): the website ID from Settings → Websites
+umami_website_id = ""
+# Google Analytics: the measurement ID, e.g. "G-XXXXXXXXXX"
+google_analytics_id = ""
 
 [i18n]
 enabled = true

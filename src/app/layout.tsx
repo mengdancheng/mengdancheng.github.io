@@ -166,6 +166,22 @@ export default function RootLayout({
             __html: buildLocaleBootstrapScript(runtimeI18n),
           }}
         />
+        {config.analytics?.umami_website_id && (
+          <script defer src="https://cloud.umami.is/script.js" data-website-id={config.analytics.umami_website_id} />
+        )}
+        {config.analytics?.google_analytics_id && (
+          <>
+            <script async src={`https://www.googletagmanager.com/gtag/js?id=${config.analytics.google_analytics_id}`} />
+            <script
+              dangerouslySetInnerHTML={{
+                __html: `window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', ${JSON.stringify(config.analytics.google_analytics_id)});`,
+              }}
+            />
+          </>
+        )}
       </head>
       <body className="font-sans antialiased">
         <ThemeProvider>
@@ -185,6 +201,7 @@ export default function RootLayout({
               lastUpdated={config.site.last_updated}
               lastUpdatedByLocale={lastUpdatedByLocale}
               defaultLocale={runtimeI18n.defaultLocale}
+              showVisitCount={config.features.enable_visit_counter}
             />
           </LocaleProvider>
         </ThemeProvider>
