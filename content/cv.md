@@ -3,24 +3,24 @@ A one-page academic CV and the full bilingual CV are available on request — em
 ## Current Position
 
 **Postdoctoral Researcher**, *Since 2025.12*
-College of Architecture and Urban Planning, Tongji University, China
-Environment and Behavior Laboratory; Lab of Neuroscience and Augmented Architecture
+[College of Architecture and Urban Planning](https://caup.tongji.edu.cn/), [Tongji University](https://en.tongji.edu.cn/), China
+Environment and Behavior Laboratory; [Lab of Neuroscience and Augmented Architecture](https://caup-lab.tongji.edu.cn/3b/76/c33896a211830/page.htm)
 
 ## Education
 
-**Doctor of Engineering in Architecture**, Tongji University, *2019.09 – 2025.11*  
+**Doctor of Engineering in Architecture**, [Tongji University](https://en.tongji.edu.cn/), *2019.09 – 2025.11*  
 `Project 985` `Project 211` `Double First-Class` `ShanghaiRanking China #18` `QS World #177`
-- College of Architecture and Urban Planning, Shanghai
+- [College of Architecture and Urban Planning](https://caup.tongji.edu.cn/), Shanghai
 - Advisor: Prof. Leiqing Xu
 
-**Joint Ph.D. Student, Public Policy**, National University of Singapore, *2024.01 – 2025.01*  
+**Joint Ph.D. Student, Public Policy**, [National University of Singapore](https://www.nus.edu.sg/), *2024.01 – 2025.01*  
 `QS World #10` `Asia #1`
-- Lee Kuan Yew School of Public Policy, Singapore
+- [Lee Kuan Yew School of Public Policy](https://lkyspp.nus.edu.sg/), Singapore
 - Advisor: Prof. Tan Shin Bin
 
-**Bachelor of Architecture**, Central South University, *2014.09 – 2019.06*  
+**Bachelor of Architecture**, [Central South University](https://en.csu.edu.cn/), *2014.09 – 2019.06*  
 `Project 985` `Project 211` `Double First-Class` `ShanghaiRanking China #27` `ARWU World #83`
-- School of Architecture and Art, Changsha
+- [School of Architecture and Art](https://art.csu.edu.cn/), Changsha
 
 ## Research Profile
 

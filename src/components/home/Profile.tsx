@@ -166,7 +166,18 @@ export default function Profile({ author, social, features, researchInterests }:
                     {author.title}
                 </p>
                 <p className="text-neutral-600 mb-2">
-                    {author.institution}
+                    {author.institution_url ? (
+                        <a
+                            href={author.institution_url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="hover:text-accent transition-colors duration-200"
+                        >
+                            {author.institution}
+                        </a>
+                    ) : (
+                        author.institution
+                    )}
                 </p>
             </div>
 

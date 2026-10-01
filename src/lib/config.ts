@@ -14,6 +14,8 @@ export interface SiteConfig {
     name: string;
     title: string;
     institution: string;
+    // Optional homepage for the institution, linked from the profile card
+    institution_url?: string;
     avatar: string;
   };
   social: {
