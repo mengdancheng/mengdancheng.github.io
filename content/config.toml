@@ -42,7 +42,7 @@ enable_one_page_mode = false
 [analytics]
 # Private visitor statistics, visible only to you. Leave empty to disable.
 # Umami Cloud (https://cloud.umami.is): the website ID from Settings → Websites
-umami_website_id = ""
+umami_website_id = "989f8498-d8cf-4110-a5c3-fffc452c428e"
 # Google Analytics: the measurement ID, e.g. "G-XXXXXXXXXX"
 google_analytics_id = ""
 
