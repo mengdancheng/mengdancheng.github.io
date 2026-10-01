@@ -26,7 +26,7 @@ orcid = "https://orcid.org/0000-0001-5830-5753"
 linkedin = "https://www.linkedin.com/in/mengdancheng/"
 researchgate = "https://www.researchgate.net/profile/Dancheng-Meng"
 cnki = "https://kns.cnki.net/kcms2/author/detail?v=sFGZ-GfRoEU4sTzlbXbWsYYBv4jCSSsOAaSN53_h1Jpx1iB7d--hOppll1SiJgEkaSIF3CnthBcZY8ILIqBKLIb2nAhhpL2TRhNEV2Fbe4W9eAxLO_f-lOxn3lUbbi8K1CRAytszOJghUKQKHDcATbcrJ3iBHQQf&uniplatform=NZKPT&language=CHS"
-github = "https://github.com/daisiermon"
+github = "https://github.com/mengdancheng"
 
 [features]
 # Show a like button on the about page
